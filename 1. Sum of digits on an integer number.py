@@ -1,5 +1,5 @@
 #############################################################################################
-# This program receives an integer number as input and returns the sum of each digit of it. #
+# This program receives an integer number as input and returns the sum of all digits of it. #
 # Examples: 135 -> 1 + 3 + 5 = 9  or 123456789 = 1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 + 9 = 45     #
 #############################################################################################
 
