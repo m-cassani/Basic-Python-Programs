@@ -1,5 +1,5 @@
 # Basic-Python-Programs
-Some really basic programs that I've develop while studying Python. Feel free to check them and give your feedback :)
+Some really basic programs that I've developed while studying Python. Feel free to check them and give your feedback :)
 
 Projects:
 
