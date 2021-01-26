@@ -1,5 +1,5 @@
 # Basic-Python-Programs
-Projects:
+List of programs:
 
 1) Sum of digits on an integer number:
   This program receives an integer number as input and returns the sum of each digit of it.
