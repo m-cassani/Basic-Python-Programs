@@ -1,6 +1,4 @@
 # Basic-Python-Programs
-Some really basic programs that I've developed while studying Python. Feel free to check them and give me your feedback :)
-
 Projects:
 
 1) Sum of digits on an integer number:
