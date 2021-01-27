@@ -10,5 +10,5 @@ List of programs:
     Examples: 151 -> It is a prime number! or 6513332 -> Not a prime number.
     
 3) Equal adjacent digits:
-    This program receives a positve integer number as input and returns if it has equal adjacent digits in it.
+    This program receives a positive integer number as input and returns if it has equal adjacent digits in it.
     Examples: 123456789 -> It doesnt have equal adjacent digits. or 1324556931 -> It has equal adjacent digits!
