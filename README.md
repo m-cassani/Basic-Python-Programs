@@ -6,7 +6,7 @@ List of programs:
     Examples: 135 -> 1 + 3 + 5 = 9  or 123456789 -> 1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 + 9 = 45
   
 2) Prime number or not:
-    This program receives a positve integer number as input and returns if it is a prime number or not.
+    This program receives a positive integer number as input and returns if it is a prime number or not.
     Examples: 151 -> It is a prime number! or 6513332 -> Not a prime number.
     
 3) Equal adjacent digits:
