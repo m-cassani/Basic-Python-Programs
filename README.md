@@ -12,3 +12,7 @@ List of programs:
 3) Equal adjacent digits:
     This program receives a positive integer number as input and returns if it has equal adjacent digits in it.
     Examples: 123456789 -> It doesnt have equal adjacent digits. or 1324556931 -> It has equal adjacent digits!
+    
+4) Highest prime number:
+    This program receives an integer number higher than 1 as input and returns the highest prime number below or equal to it.
+    Examples: 100 -> 97  or 5000 -> 4999 or 6235 -> 6229. Obs: It may run slow for numbers higher than 100k. 
